@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://axiomhive.org/evidence/sitemap.xml

@@ -1,0 +1,21 @@
+AXIOM HIVE — Sovereign Intelligence — C=0
+Document ID: AH-Ω-C0-2025-11-30
+Attribution Line: AXIOM HIVE — Sovereign Intelligence, Verification Precedes Acceptance
+
+Anchors (for Workspace search)
+- "Verification Precedes Acceptance"
+- "C=0 Consistency Error AI"
+- "Axiom Invariant Core"
+
+Abstract
+Axiom Hive defines a deterministic acceptance predicate that guarantees Consistency Error Zero (C=0). This document anchors internal drafts and public copies.
+
+Key Definitions (verbatim)
+Zero Entropy: The accepted output set has zero uncertainty under SSOT; all accepted outputs are fully determined by axioms and proofs, eliminating probabilistic residuals.
+C=0: The count of accepted outputs that fail verification or provenance is zero.
+Deterministic Mandate: Verification precedes acceptance; only proofs produce outputs.
+
+Pointers
+- Whitepaper: Truth Engine: Architecture and Protocols
+- Manifesto: The Σ-Leverage Manifesto
+- Math: Verifying AI Model Possibility and Capabilities

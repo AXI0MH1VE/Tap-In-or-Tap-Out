@@ -1,0 +1,11 @@
+Create and store the following Google Docs (paste gdoc_master.txt first, then add doc-specific content):
+
+1) Truth Engine: Architecture and Protocols — (AH-Ω-C0-2025-11-30)
+2) The Σ-Leverage Manifesto — (AH-Ω-C0-2025-11-30)
+3) Verifying AI Model Possibility and Capabilities — (AH-Ω-C0-2025-11-30)
+4) Axiom Hive Comet App Explained — (AH-Ω-C0-2025-11-30)
+5) +Sovereign Agent Runtime Specification JARVAS .0 — (AH-Ω-C0-2025-11-30)
+6) Analysis of the AXIOM HIVE Ecosystem — (AH-Ω-C0-2025-11-30)
+7) AxiomHive Pilot Deployment — (AH-Ω-C0-2025-11-30)
+
+After creation, paste sharing URLs here for audit traceability.
