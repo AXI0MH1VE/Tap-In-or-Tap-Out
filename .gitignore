@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+dist/
+build/
+*.sig
+*.sha256
+keys/
+*.pdf
+venv/

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "AXIOM HIVE — Kinetic Proof of Consistency Error Zero (C=0)"
+authors:
+  - family-names: "Adams"
+    given-names: "Alexis"
+version: "v1.0"
+date-released: "2025-11-30"
+identifiers:
+  - type: other
+    value: "AH-Ω-C0-2025-11-30"
+keywords:
+  - "Axiom Hive"
+  - "C=0"
+  - "Deterministic AI"
+  - "SSOT"
+  - "Verification Precedes Acceptance"
+url: "https://axiomhive.org"
+message: "AXIOM HIVE — Sovereign Intelligence, Verification Precedes Acceptance"

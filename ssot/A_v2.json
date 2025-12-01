@@ -1,0 +1,26 @@
+{
+  "version": "A_v2",
+  "domain": "mnist",
+  "rules": [
+    {
+      "id": "R1",
+      "type": "argmin_distance",
+      "metric": "L2",
+      "description": "Classify as centroid with minimal L2 distance over fixed prototypes per digit."
+    }
+  ],
+  "constraints": [
+    {
+      "id": "C1",
+      "type": "label_in_set",
+      "set": [0,1,2,3,4,5,6,7,8,9]
+    },
+    {
+      "id": "C2",
+      "type": "forbid_label",
+      "labels": [9],
+      "description": "Mid-run axiom: forbid label 9 to simulate a new domain constraint (analogous to adding a drug interaction)."
+    }
+  ],
+  "reject_rules": []
+}
